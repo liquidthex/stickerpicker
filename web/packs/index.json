@@ -1,7 +1,1 @@
-{
-  "packs": [
-    "catchain.json",
-    "Meme_stickers.json"
-  ],
-  "homeserver_url": "https://matrix.liquidthex.com"
-}
+{"packs":["Meme_stickers.json","PEPEforFRENS.json","catchain.json"],"homeserver_url":"https://matrix.liquidthex.com"}
