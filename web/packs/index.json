@@ -1,6 +1,7 @@
 {
   "packs": [
-    "catchain.json"
+    "catchain.json",
+    "Meme_stickers.json"
   ],
   "homeserver_url": "https://matrix.liquidthex.com"
 }
